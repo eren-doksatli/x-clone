@@ -1,3 +1,5 @@
+# x-clone
+
 # Tools
 
 - react-router-dom
@@ -7,4 +9,5 @@
 - moment
 - uuid
 - firebase
-# x-clone
+
+![](x-clone.gif)
